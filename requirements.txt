@@ -1,8 +1,7 @@
 streamlit
-tensorflow
+tensorflow-cpu==2.12.0
 numpy
 pillow
 pandas
-altair
 matplotlib
 protobuf==3.20.3
