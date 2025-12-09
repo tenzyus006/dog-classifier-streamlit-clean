@@ -1,7 +1,8 @@
-streamlit
-tensorflow-cpu==2.12.0
-numpy
+streamlit==1.29.0
+tensorflow==2.12.0
+numpy==1.23.5
 pillow
 pandas
-matplotlib
 protobuf==3.20.3
+altair
+matplotlib
