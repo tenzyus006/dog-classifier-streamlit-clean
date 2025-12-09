@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+pillow
+pandas
+altair
+matplotlib
+protobuf==3.20.3
